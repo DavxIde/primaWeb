@@ -1,0 +1,7 @@
+C:\Users\PC10\Desktop\lazzerini.davide.5i.primaWeb\obj\Debug\net7.0\lazzerini.davide.5i.primaWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC10\Desktop\lazzerini.davide.5i.primaWeb\obj\Debug\net7.0\lazzerini.davide.5i.primaWeb.AssemblyInfoInputs.cache
+C:\Users\PC10\Desktop\lazzerini.davide.5i.primaWeb\obj\Debug\net7.0\lazzerini.davide.5i.primaWeb.AssemblyInfo.cs
+C:\Users\PC10\Desktop\lazzerini.davide.5i.primaWeb\obj\Debug\net7.0\lazzerini.davide.5i.primaWeb.csproj.CoreCompileInputs.cache
+C:\Users\PC10\Desktop\lazzerini.davide.5i.primaWeb\obj\Debug\net7.0\lazzerini.davide.5i.primaWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC10\Desktop\lazzerini.davide.5i.primaWeb\obj\Debug\net7.0\lazzerini.davide.5i.primaWeb.RazorAssemblyInfo.cache
+C:\Users\PC10\Desktop\lazzerini.davide.5i.primaWeb\obj\Debug\net7.0\lazzerini.davide.5i.primaWeb.RazorAssemblyInfo.cs
